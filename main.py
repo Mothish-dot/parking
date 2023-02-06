@@ -69,7 +69,7 @@ while True:
 
 
     cv2.imshow("image",img)
-    # cv2.imshow("image",imgGray)
+    #cv2.imshow("image",imgGray)
     # cv2.imshow("imageBlur", imgBlur)
     # cv2.imshow("imageThreshold", imgThreshold)
     # cv2.imshow("imageMedian", imgMedian)
